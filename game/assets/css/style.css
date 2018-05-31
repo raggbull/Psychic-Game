@@ -1,0 +1,38 @@
+
+  
+  body{
+      color: #777777;
+      background-image: url("");
+      border-color: #dddddd;
+      font-size: 18px;
+      line-height: 34px;
+      font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+      max-width: 960px;
+      margin: auto;
+      background-color: black;  
+      height: 100%;  
+      margin-right: 50px;	
+  }
+  .wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em;
+    
+  }
+  .mainHeader{
+      columns: 0
+  }
+  #game{
+      text-align: left;
+  }
+  #container{
+      width: 100%;
+      max-width: 960px;
+      margin: auto;
+      clear: both;	
+  }
+  
+  .footer {
+    text-align: center;
+  }
